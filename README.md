@@ -3,6 +3,3 @@
 - 🌱 I’m currently learning in Excel,PowerBI,SQL
 - 💬 Ask me about Data Analysis with Python,SQL,Excel,PowerBI,R & Statistics
 - 📫 How to reach me ...[https://www.linkedin.com/in/pradeepkumar29/](url)
-- 
-
-  
